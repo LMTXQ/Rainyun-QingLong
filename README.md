@@ -1,7 +1,9 @@
 
 
 <div align="center">
+    
 # 雨云自动签到（青龙面板版）
+    
 [![GitHub stars](https://img.shields.io/github/stars/你的用户名/Rainyun-QingLong?style=flat-square)](https://github.com/你的用户名/Rainyun-QingLong/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/你的用户名/Rainyun-QingLong?style=flat-square)](https://github.com/你的用户名/Rainyun-QingLong/network)
 [![GitHub issues](https://img.shields.io/github/issues/你的用户名/Rainyun-QingLong?style=flat-square)](https://github.com/你的用户名/Rainyun-QingLong/issues)
@@ -19,9 +21,6 @@
 
 ## ✨ 功能特性
 
-<table>
-<tr>
-<td width="50%">
 
 ### 🎯 核心功能
 - ✅ 多账号轮询签到
@@ -29,8 +28,7 @@
 - ✅ 账号级续费开关
 - ✅ 服务器到期监控
 
-</td>
-<td width="50%">
+
 
 ### 🛡️ 安全保障
 - ✅ 积分余额保护
@@ -38,9 +36,6 @@
 - ✅ 执行结果统计
 - ✅ 错误自动重试
 
-</td>
-</tr>
-</table>
 
 ---
 
@@ -728,4 +723,5 @@ in the Software without restriction...
 Made with ❤️ by [LMTXQ](https://github.com/LMTXQ)
 
 </div>
+
 
