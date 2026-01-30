@@ -1,12 +1,14 @@
-# 雨云自动签到（青龙面板版）
+
 
 <div align="center">
-
+# 雨云自动签到（青龙面板版）
 [![GitHub stars](https://img.shields.io/github/stars/你的用户名/Rainyun-QingLong?style=flat-square)](https://github.com/你的用户名/Rainyun-QingLong/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/你的用户名/Rainyun-QingLong?style=flat-square)](https://github.com/你的用户名/Rainyun-QingLong/network)
 [![GitHub issues](https://img.shields.io/github/issues/你的用户名/Rainyun-QingLong?style=flat-square)](https://github.com/你的用户名/Rainyun-QingLong/issues)
 [![GitHub license](https://img.shields.io/github/license/你的用户名/Rainyun-QingLong?style=flat-square)](https://github.com/你的用户名/Rainyun-QingLong/blob/main/LICENSE)
-
+    
+**本文档由AI生成，如有错误请反馈**
+    
 **支持多账号管理、验证码识别、服务器自动续费，专为青龙面板优化**
 
 [快速开始](#快速开始) • [配置说明](#环境变量详解) • [常见问题](#常见问题) • [更新日志](#更新日志)
@@ -116,6 +118,8 @@ pip3 install selenium opencv-python-headless ddddocr requests
 > 📥 **stealth.min.js 下载**：[点击下载](https://raw.githubusercontent.com/berstend/puppeteer-extra/master/packages/puppeteer-extra-plugin-stealth/evasions/stealth.min.js)
 
 ### 步骤 3：配置环境变量
+
+**相关说明请查看 [环境变量详解]**
 
 进入青龙面板 → **环境变量** → **新建**
 
@@ -724,3 +728,4 @@ in the Software without restriction...
 Made with ❤️ by [LMTXQ](https://github.com/LMTXQ)
 
 </div>
+
